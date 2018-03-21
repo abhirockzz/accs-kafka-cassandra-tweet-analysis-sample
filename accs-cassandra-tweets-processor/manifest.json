@@ -1,0 +1,8 @@
+{
+    "runtime": {
+        "majorVersion": "8"
+    },
+	"type":"worker",
+    "command": "java -jar accs-cassandra-tweets-processor.jar",
+    "notes": "Consumer application to persist tweets from Kafka to Cassandra"
+}

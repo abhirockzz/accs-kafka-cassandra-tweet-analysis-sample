@@ -1,0 +1,4 @@
+{
+"runtime":{"majorVersion":"8"},
+"command":"java -jar accs-kafka-tweets-producer.jar"
+}

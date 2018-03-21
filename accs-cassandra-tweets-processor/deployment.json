@@ -1,0 +1,16 @@
+{
+"instances":1,
+"memory":"2G",
+"services":[
+{
+"type":"DHCS",
+"name":"<as per your instance>",
+"username":"<as per your instance>",
+"password":"<as per your instance>"
+},
+{
+"type":"OEHCS",
+"name":"<as per your instance>"
+}
+]
+}

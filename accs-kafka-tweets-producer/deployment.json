@@ -1,0 +1,17 @@
+{
+"instances":1,
+"memory":"2G",
+"environment": {
+"TWITTER_CONSUMER_KEY":"<as per your twitter app>",
+"TWITTER_CONSUMER_SECRET":"<as per your twitter app>",
+"TWITTER_ACCESS_TOKEN":"<as per your twitter app>",
+"TWITTER_ACCESS_TOKEN_SECRET":"<as per your twitter app>",
+"TWITTER_TRACKED_TERMS":"java,javaee,nodejs,php,python,ruby,golang,dotnet,cassandra,kafka"
+},
+"services":[
+{
+"type":"OEHCS",
+"name":"<as per your instance>"
+}
+]
+}
